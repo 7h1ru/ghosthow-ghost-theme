@@ -1,6 +1,6 @@
-# GhostHow Ghost Theme :sparkles: :star2:
+# GhostHow Ghost Theme 
 
-Light Weight and Responsive Ghost CMS theme by Thiru Kumaran
+Light Weight and Responsive Theme for Ghost CMS by Thiru Kumaran
 
 Special thanks to Santhosh Veer(Santhoshveer.com) for helping me to develop this theme.
 
@@ -13,18 +13,17 @@ Using RRSSB Social Share Buttons.
 This theme Supports on Both Ghost CMS Versions 1.0.0 and LTS Version :white_check_mark:
 
 ```
-Supported Ghost Version: 1.0.0
+Supported Ghost Version: 1.13.0
 Theme Version: 0.0.1
 Theme demo  - https://ghosthow.com
 ```
 ## Download Theme :file_folder:
 
-- For Ghost 1.0.0 <b>(Latest and Stable)</b> - https://ghosthow.com/free-blog-theme
+- For Ghost 1.13.0 <b>(Latest and Stable)</b> - https://ghosthow.com/free-blog-theme
 
 ## Theme Info :bookmark:
 
 - Light weight
-- Simple Look (No fancy Desings)
 - Clean Layouts
 - Responsive Design
 - Bootstrap CSS Framework
@@ -33,24 +32,15 @@ Theme demo  - https://ghosthow.com
 - SEO Optimized
 - Speed optimized
 - <strike>Code Highlighter (prismjs.com)</strike>
-
+- Related Posts
+- Author Archive Page
 
 ## Install Instructions :point_left:
 
-== For 1.0.0 ==
+== For 1.13.0 ==
 
 - Download this theme
 - Goto > Design - Upload and activate the theme 
-
-== For LTS Version ==
-
-- Gotot > general > upload and activate the theme
-
-
-## Developer Instruction :point_left:
-
-- Logo would be icon Best size 32x32 
-- Homepage author/logo size 250x250
 
 ## Upcoming Updates :arrows_clockwise:
 
@@ -77,12 +67,12 @@ Theme demo  - https://ghosthow.com
 GPL v3.0 or later.
 Copyright (C) 2017  Thiru Kumaran http://thiru.blog/
 
-This program is free software; you can redistribute it and/or modify it
+This theme is fully free; you can redistribute it and/or modify it
 under the terms of the GNU General Public License as published by the Free
 Software Foundation; either version 2 of the License, or (at your option)
 any later version.
 
-This program is distributed in the hope that it will be useful, but WITHOUT
+This theme is distributed in the hope that it will be useful, but WITHOUT
 ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
 FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
 more details.
