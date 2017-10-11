@@ -1,0 +1,17 @@
+{
+    "name": "ghosthow",
+    "description": "Light weight and Responsive Ghost theme.",
+    "demo": "https://ghosthow.com",
+    "version": "0.0.1",
+    "engines": {
+        "ghost": ">=1.0.0"
+    },
+"author": {
+        "name": "Thiru Kumaran",
+        "email": "hello@thiru.blog",
+        "url": "https://thiru.blog/"
+    },
+"config": {
+    "posts_per_page": 5
+   }
+}
