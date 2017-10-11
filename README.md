@@ -4,7 +4,7 @@ Light Weight and Responsive Theme for Ghost CMS by Thiru Kumaran
 
 Special thanks to Santhosh Veer(Santhoshveer.com) for helping me to develop this theme.
 
-Using RRSSB Social Share Buttons. 
+Using RRSSB Social Share Buttons. - https://github.com/kni-labs/rrssb
 
 [![GPL](https://img.shields.io/badge/Liscense-GPL-green.svg)](http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
