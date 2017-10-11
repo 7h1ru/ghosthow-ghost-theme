@@ -1,0 +1,27 @@
+<!-- Navigation -->
+<nav class="navbar navbar-inverse">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+{{#if @blog.logo}}
+<a class="navbar-brand" href="{{@blog.url}}">
+<img src="{{@blog.logo}}" width="auto" height="42" alt="{{@blog.title}}"/>                     
+</a>
+{{else}}
+<a class="navbar-brand" href="{{@blog.url}}">
+<img src="{{@blog.url}}/assets/ghost-how-logo.png" width="auto" height="42" alt="{{@blog.title}}"/> 
+</a>
+{{/if}}
+</div>
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+{{#foreach navigation}}
+<li class="nav-{{slug}}{{#if current}} nav-current{{/if}}"><a href="{{url absolute="true"}}">{{label}}</a></li>
+{{/foreach}}
+</ul>
+</div><!-- /.navbar-collapse -->
+</nav>  
